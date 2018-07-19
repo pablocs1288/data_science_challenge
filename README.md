@@ -4,8 +4,6 @@ The notebook follows the challenge presented below:
 
 ## Data Challenge
 
-The purpose of this challenge is to let you demonstrate the way you think and work. You shouldn’t spend more than 8 hours to complete the exercise.
-
 The dataset we are providing contains the orders made by customers in one of our applications. Here’s the description of each column:
 
  * customer_code: unique id of a customer;
@@ -37,4 +35,4 @@ Implement the model you described in question 2, preferably in Python. The code 
 **Question 4**
 
   1. Explain each and every of your design choices, you can use jupyter notebooks. (e.g., preprocessing, model selection, hyper parameters, evaluation criteria). Compare and contrast your choices with alternative methodologies.
-  2. Describe how you would improve the model in Question 3 if you had more time. 
+  2. Describe how you would improve the model in Question 3 if you had more time.
